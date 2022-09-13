@@ -17,13 +17,14 @@ I'm a DevOps Engineer.
 <p align="left"> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/digitalocean.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/digitalocean.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
+    
    
 </p>
 
