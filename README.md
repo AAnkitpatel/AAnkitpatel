@@ -22,6 +22,8 @@ I'm a DevOps Engineer.
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/digitalocean.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
    
 </p>
 
@@ -56,13 +58,6 @@ I'm a DevOps Engineer.
 </a>
 <a href="https://github.com/AAnkitpatel?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-# buy-me-a-coffee
-
-Liked some of my work? Buy me a coffee (or more likely a beer)
-
-<a href="https://www.buymeacoffee.com/sachinm" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-<!--
 **AAnkitpatel/AAnkitpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
