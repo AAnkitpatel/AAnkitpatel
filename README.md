@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a devops engineer. 
+I'm a DevOps Engineer. 
 
 - 📫 How to reach me **a.ankitpatel01@gmail.com**
 
@@ -21,7 +21,7 @@ I'm a devops engineer.
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a> 
    
 </p>
 
