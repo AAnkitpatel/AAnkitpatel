@@ -22,7 +22,7 @@ I'm a DevOps Engineer.
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>  
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bash.png"/> </a> 
-    <a href="" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/digitalocean.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/digitalocean.png"/> </a> 
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-cloud.png"/> </a>
    
 </p>
